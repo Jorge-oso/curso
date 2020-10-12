@@ -1,0 +1,20 @@
+#mititulo{
+	color: red;
+	font-size: 50px;
+}
+
+#seccion1{
+	border:red 5px dashed;
+}
+
+#seccion2{
+	border: red 5px dashed;
+}
+
+p{
+	border: blue 3px dashed;
+}
+
+.color{
+	color: green;
+}
